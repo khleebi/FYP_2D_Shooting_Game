@@ -1,2 +1,2 @@
 # FYP-2D-Shooting
- FYP Project
+ All documents are pushed in this repo. Please go through those .pdf files :)
